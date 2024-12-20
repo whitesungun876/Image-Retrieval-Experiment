@@ -1,4 +1,5 @@
 Image Retrieval with SIFT Features
+
 This repository demonstrates an image retrieval system using SIFT features, bag-of-words (BoW) model, and multiple similarity measures (TF-IDF, KL Divergence).
 
 Requirements
